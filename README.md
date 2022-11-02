@@ -48,18 +48,33 @@ This is a content pack add on for Pokemon Emerald built using the decompilation 
 
 ## Add Sevii Islands
 - [ ] Map exterior
-    - [ ] One Island
-    - [ ] Two Island
-    - [ ] Three Island
-    - [ ] Four Island
-    - [ ] Five Island
-    - [ ] Six Island
-    - [ ] Seven Island
-    - [ ] Eight Island (cut content from Fire Red, easter egg)
-    - [ ] Route 201 (One Island South)
-    - [ ] Route 202 (One Island North)
-    - [ ] Route 203 (Two Island South)
+    - [x] One Island
+    - [x] Two Island
+    - [x] Three Island
+    - [x] Four Island
+    - [x] Five Island
+    - [x] Six Island
+    - [x] Seven Island
+    - [x] Eight Island (cut content from Fire Red, easter egg)
+    - [x] Route 201 (One Island South, Treasure Beach)
+    - [ ] Route 202 (One Island North, Kindle Path)
+    - [ ] Route 203 (Two Island South, New content)
+    - [ ] Route 204 (Three Island, South, Port)
+    - [ ] Route 205 (Three Island, Bond Bridge)
+    - [ ] Route 206 (Five Island, Five Island Meadow + Memorial Pillar)
+    - [ ] Route 207 (Five Island, Water Labyrinth)
+    - [ ] Route 208 (Five Island, Resort Goggeous)
+    - [ ] Route 209 (Six Island, Water Path)
+    - [ ] Route 210 (Six Island, Ruin Valley)
+    - [ ] Route 211 (Six Island, Green Path)
+    - [ ] route 212 (Six Island, Outcast Island)
     - [ ] Mt. Ember (One Island, North of Rt. 202)
+    - [ ] Three Isle Path (Three Island, Cave on Rt. 204)
+    - [ ] Berry Forest (Three Island, West of Rt. 205)
+    - [ ] Icefall Cave (Four Island, In Town)
+    - [ ] Lost Cave (Five Island, Cave on Rt. 208)
+    - [ ] Pattern Bush (Six Island, Forest on Rt. 211)
+    - [ ] Altering Cave (Six Island, Cave on Rt. 212)
 - [ ] Map interior
     - [ ] Boat docks
     - [ ] Poke Centers
@@ -67,4 +82,14 @@ This is a content pack add on for Pokemon Emerald built using the decompilation 
     - [ ] Houses
 - [ ] Add Pokemarts/Pokecenters functionality
 
-TODO: Finish outline
+## Add Kanto
+- [ ] Write Story
+- [ ] Mapping
+- [ ] Scripting
+- [ ] Testing
+
+## Add Johto
+- [ ] Write Story
+- [ ] Mapping
+- [ ] Scripting
+- [ ] Testing

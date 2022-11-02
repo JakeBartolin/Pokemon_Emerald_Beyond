@@ -1071,3 +1071,7 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/SeviiIsland_SevenIsland/scripts.inc"
 
 	.include "data/maps/SeviiIsland_EightIsland/scripts.inc"
+
+	.include "data/maps/Route201/scripts.inc"
+
+	.include "data/maps/Route202/scripts.inc"

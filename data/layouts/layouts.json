@@ -4415,7 +4415,7 @@
       "id": "LAYOUT_SEVII_ISLAND_ONE_ISLAND",
       "name": "SeviiIsland_OneIsland_Layout",
       "width": 30,
-      "height": 60,
+      "height": 41,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Dewford",
       "border_filepath": "data/layouts/SeviiIsland_OneIsland/border.bin",
@@ -4490,6 +4490,26 @@
       "secondary_tileset": "gTileset_Slateport",
       "border_filepath": "data/layouts/SeviiIsland_EightIsland/border.bin",
       "blockdata_filepath": "data/layouts/SeviiIsland_EightIsland/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE201",
+      "name": "Route201_Layout",
+      "width": 40,
+      "height": 55,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fortree",
+      "border_filepath": "data/layouts/Route201/border.bin",
+      "blockdata_filepath": "data/layouts/Route201/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE202",
+      "name": "Route202_Layout",
+      "width": 30,
+      "height": 179,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fortree",
+      "border_filepath": "data/layouts/Route202/border.bin",
+      "blockdata_filepath": "data/layouts/Route202/map.bin"
     }
   ]
 }

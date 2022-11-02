@@ -1,0 +1,10 @@
+raw `
+SeviiIsland_OneIsland_MapScripts::
+	.byte 0
+`
+
+script SeviiIsland_OneIsland_WelcomeSign {
+    lockall
+    msgbox(format("Welcome to One Island!"))
+    releaseall
+}

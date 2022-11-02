@@ -34,7 +34,17 @@
     "gMapGroup_IndoorRoute113",
     "gMapGroup_IndoorRoute123",
     "gMapGroup_IndoorRoute119",
-    "gMapGroup_IndoorRoute124"
+    "gMapGroup_IndoorRoute124",
+    "gMapGroup_IndoorSeviiIsland_OneIsland",
+    "gMapGroup_IndoorSeviiIsland_TwoIsland",
+    "gMapGroup_IndoorSeviiIsland_ThreeIsland",
+    "gMapGroup_IndoorSeviiIsland_FourIsland",
+    "gMapGroup_IndoorSeviiIsland_FiveIsland",
+    "gMapGroup_IndoorSeviiIsland_SixIsland",
+    "gMapGroup_IndoorSeviiIsland_SevenIsland",
+    "gMapGroup_IndoorSeviiIsland_EightIsland",
+    "gMapGroup_IndoorRoute201",
+    "gMapGroup_IndoorRoute202"
   ],
   "gMapGroup_TownsAndRoutes": [
     "PetalburgCity",
@@ -101,7 +111,9 @@
     "SeviiIsland_FiveIsland",
     "SeviiIsland_SixIsland",
     "SeviiIsland_SevenIsland",
-    "SeviiIsland_EightIsland"
+    "SeviiIsland_EightIsland",
+    "Route201",
+    "Route202"
   ],
   "gMapGroup_IndoorLittleroot": [
     "LittlerootTown_BrendansHouse_1F",

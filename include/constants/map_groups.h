@@ -71,6 +71,8 @@
 #define MAP_SEVII_ISLAND_SIX_ISLAND   (62 | (0 << 8))
 #define MAP_SEVII_ISLAND_SEVEN_ISLAND (63 | (0 << 8))
 #define MAP_SEVII_ISLAND_EIGHT_ISLAND (64 | (0 << 8))
+#define MAP_ROUTE201                  (65 | (0 << 8))
+#define MAP_ROUTE202                  (66 | (0 << 8))
 
 // gMapGroup_IndoorLittleroot
 #define MAP_LITTLEROOT_TOWN_BRENDANS_HOUSE_1F    (0 | (1 << 8))

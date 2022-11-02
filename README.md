@@ -1,31 +1,70 @@
-# Pokémon Emerald
-
-This is a decompilation of Pokémon Emerald.
-
-It builds the following ROM:
-
-* [**pokeemerald.gba**](https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1961) `sha1: f3ae088181bf583e55daf962a92bb46f4f1d07b7`
-
-To set up the repository, see [INSTALL.md](INSTALL.md).
+# Pokémon Emerald Beyond
+This is a content pack add on for Pokemon Emerald built using the decompilation project "Pokeemerald". Once complete, it will build a complete Pokemon Emerald Beyond game which will allow the player to travel to various sections of Pokemon Emerald normally inaccessable (Faraway Island, Birth Island, etc), as well as the Sevii Islands, the Kanto, and the Johto regions.
 
 
-## See also
+# Development Timeline
 
-Other disassembly and/or decompilation projects:
-* [**Pokémon Red and Blue**](https://github.com/pret/pokered)
-* [**Pokémon Gold and Silver (Space World '97 demo)**](https://github.com/pret/pokegold-spaceworld)
-* [**Pokémon Yellow**](https://github.com/pret/pokeyellow)
-* [**Pokémon Trading Card Game**](https://github.com/pret/poketcg)
-* [**Pokémon Pinball**](https://github.com/pret/pokepinball)
-* [**Pokémon Stadium**](https://github.com/pret/pokestadium)
-* [**Pokémon Gold and Silver**](https://github.com/pret/pokegold)
-* [**Pokémon Crystal**](https://github.com/pret/pokecrystal)
-* [**Pokémon Ruby and Sapphire**](https://github.com/pret/pokeruby)
-* [**Pokémon Pinball: Ruby & Sapphire**](https://github.com/pret/pokepinballrs)
-* [**Pokémon FireRed and LeafGreen**](https://github.com/pret/pokefirered)
-* [**Pokémon Mystery Dungeon: Red Rescue Team**](https://github.com/pret/pmd-red)
+## Complete Hoenn
+- [ ] Access to Faraway Island (Mew)
+    - [ ] Quest writing
+    - [ ] Script
+    - [ ] Test
+- [ ] Access to Birth Island (Deoxys)
+    - [ ] Quest writing
+    - [ ] Script
+    - [ ] Test
+- [ ] Access to Navel Rock (Lugia/Ho-oh)
+    - [ ] Quest writing
+    - [ ] Script
+    - [ ] Test
+- [ ] Access to Southern Island (Latios or Latias, whichever wasn't picked at end-game)
+    - [ ] Quest writing
+    - [ ] Script
+    - [ ] Test
+- [ ] Access to version exclusives
+    - [ ] Surskit line
+    - [ ] Meditite line
+    - [ ] Roselia
+    - [ ] Zangoose
+    - [ ] Lunatone
+- [ ] Access to Jirachi
+    - [ ] Quest writing
+    - [ ] Mapping
+    - [ ] Script
+    - [ ] Test
+- [ ] Access to the trade evolutions
+    - [ ] Golem
+    - [ ] Alacazam
+    - [ ] Machamp
+    - [ ] Kindra
+    - [ ] Huntail
+    - [ ] Gorebyss
+- [ ] Access to other starters
+    - [ ] Quest writing
+    - [ ] Mapping(?)
+    - [ ] Script
+    - [ ] Test
+- [ ] Fix feebas avalibility (7 squares...really gamefreak?)
 
+## Add Sevii Islands
+- [ ] Map exterior
+    - [ ] One Island
+    - [ ] Two Island
+    - [ ] Three Island
+    - [ ] Four Island
+    - [ ] Five Island
+    - [ ] Six Island
+    - [ ] Seven Island
+    - [ ] Eight Island (cut content from Fire Red, easter egg)
+    - [ ] Route 201 (One Island South)
+    - [ ] Route 202 (One Island North)
+    - [ ] Route 203 (Two Island South)
+    - [ ] Mt. Ember (One Island, North of Rt. 202)
+- [ ] Map interior
+    - [ ] Boat docks
+    - [ ] Poke Centers
+    - [ ] Poke Marts
+    - [ ] Houses
+- [ ] Add Pokemarts/Pokecenters functionality
 
-## Contacts
-
-You can find us on [Discord](https://discord.gg/d5dubZ3) and [IRC](https://web.libera.chat/?#pret).
+TODO: Finish outline

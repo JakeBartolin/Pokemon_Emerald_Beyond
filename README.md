@@ -57,9 +57,9 @@ This is a content pack add on for Pokemon Emerald built using the decompilation 
     - [x] Seven Island
     - [x] Eight Island (cut content from Fire Red, easter egg)
     - [x] Route 201 (One Island South, Treasure Beach)
-    - [ ] Route 202 (One Island North, Kindle Path)
-    - [ ] Route 203 (Two Island South, New content)
-    - [ ] Route 204 (Three Island, South, Port)
+    - [x] Route 202 (One Island North, Kindle Path)
+    - [x] Route 203 (Two Island South, New content)
+    - [x] Route 204 (Three Island, South, Port)
     - [ ] Route 205 (Three Island, Bond Bridge)
     - [ ] Route 206 (Five Island, Five Island Meadow + Memorial Pillar)
     - [ ] Route 207 (Five Island, Water Labyrinth)
@@ -81,6 +81,12 @@ This is a content pack add on for Pokemon Emerald built using the decompilation 
     - [ ] Poke Marts
     - [ ] Houses
 - [ ] Add Pokemarts/Pokecenters functionality
+- [ ] Add Trainers to Battle
+    - [ ] Route 201
+    - [ ] Route 202
+    - [ ] Route 203
+        - [ ] Twitch Plays Pokemon Season 1 Boss
+    
 
 ## Add Kanto
 - [ ] Write Story

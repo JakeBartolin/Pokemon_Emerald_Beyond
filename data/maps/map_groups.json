@@ -113,7 +113,9 @@
     "SeviiIsland_SevenIsland",
     "SeviiIsland_EightIsland",
     "Route201",
-    "Route202"
+    "Route202",
+    "Route203",
+    "Route204"
   ],
   "gMapGroup_IndoorLittleroot": [
     "LittlerootTown_BrendansHouse_1F",
@@ -641,5 +643,35 @@
   ],
   "gMapGroup_IndoorRoute124": [
     "Route124_DivingTreasureHuntersHouse"
+  ],
+  "gMapGroup_IndoorSeviiIsland_OneIsland": [
+
+  ],
+  "gMapGroup_IndoorSeviiIsland_TwoIsland": [
+
+  ],
+  "gMapGroup_IndoorSeviiIsland_ThreeIsland": [
+
+  ],
+  "gMapGroup_IndoorSeviiIsland_FourIsland": [
+
+  ],
+  "gMapGroup_IndoorSeviiIsland_FiveIsland": [
+
+  ],
+  "gMapGroup_IndoorSeviiIsland_SixIsland": [
+
+  ],
+  "gMapGroup_IndoorSeviiIsland_SevenIsland": [
+
+  ],
+  "gMapGroup_IndoorSeviiIsland_EightIsland": [
+
+  ],
+  "gMapGroup_IndoorRoute201": [
+    "Route201_FeebasCave"
+  ],
+  "gMapGroup_IndoorRoute202": [
+
   ]
 }

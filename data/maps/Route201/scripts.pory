@@ -1,0 +1,48 @@
+raw `
+Route201_MapScripts::
+	.byte 0
+`
+
+script Route201_TreasureBeach_Sign {
+    lockall
+    msgbox(format("TREASURE BEACH\n“Hidden bounties await!”"))
+    releaseall
+}
+
+script Route201_EventScript_YoungsterHank {
+    trainerbattle_single(TRAINER_BEYOND_YOUNGSTERHANK, Beyond_YoungsterHank_Intro, Beyond_YoungsterHank_Outro)
+    msgbox (Beyond_YoungsterHank_PostBattle, MSGBOX_AUTOCLOSE)
+    waitmessage
+    end
+}
+
+script Route201_EventScript_YoungsterJesse {
+    trainerbattle_single(TRAINER_BEYOND_YOUNGSTERJESSE, Beyond_YoungsterJesse_Intro, Beyond_YoungsterJesse_Outro)
+    msgbox (Beyond_YoungsterJesse_PostBattle, MSGBOX_AUTOCLOSE)
+    waitmessage
+    end
+}
+
+text Beyond_YoungsterHank_Intro {
+    "This is our secret hideout!\nNo grown-ups allowed!"
+}
+
+text Beyond_YoungsterHank_Outro {
+    format("Hey, you're not a grown-up...")
+}
+
+text Beyond_YoungsterHank_PostBattle {
+    format("Me and my brother have a secret base up ahead. Don't tell anyone!")
+}
+
+text Beyond_YoungsterJesse_Intro {
+    format("How'd you find our secret hideout!")
+}
+
+text Beyond_YoungsterJesse_Outro {
+    "No fair, you cheated!"
+}
+
+text Beyond_YoungsterJesse_PostBattle {
+    "I don't wanna talk to a cheater..."
+}

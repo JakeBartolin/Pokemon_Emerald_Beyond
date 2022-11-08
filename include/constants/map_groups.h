@@ -73,6 +73,8 @@
 #define MAP_SEVII_ISLAND_EIGHT_ISLAND (64 | (0 << 8))
 #define MAP_ROUTE201                  (65 | (0 << 8))
 #define MAP_ROUTE202                  (66 | (0 << 8))
+#define MAP_ROUTE203                  (67 | (0 << 8))
+#define MAP_ROUTE204                  (68 | (0 << 8))
 
 // gMapGroup_IndoorLittleroot
 #define MAP_LITTLEROOT_TOWN_BRENDANS_HOUSE_1F    (0 | (1 << 8))
@@ -601,6 +603,27 @@
 // gMapGroup_IndoorRoute124
 #define MAP_ROUTE124_DIVING_TREASURE_HUNTERS_HOUSE (0 | (33 << 8))
 
-#define MAP_GROUPS_COUNT 34
+// gMapGroup_IndoorSeviiIsland_OneIsland
+
+// gMapGroup_IndoorSeviiIsland_TwoIsland
+
+// gMapGroup_IndoorSeviiIsland_ThreeIsland
+
+// gMapGroup_IndoorSeviiIsland_FourIsland
+
+// gMapGroup_IndoorSeviiIsland_FiveIsland
+
+// gMapGroup_IndoorSeviiIsland_SixIsland
+
+// gMapGroup_IndoorSeviiIsland_SevenIsland
+
+// gMapGroup_IndoorSeviiIsland_EightIsland
+
+// gMapGroup_IndoorRoute201
+#define MAP_ROUTE201_FEEBAS_CAVE (0 | (42 << 8))
+
+// gMapGroup_IndoorRoute202
+
+#define MAP_GROUPS_COUNT 44
 
 #endif // GUARD_CONSTANTS_MAP_GROUPS_H

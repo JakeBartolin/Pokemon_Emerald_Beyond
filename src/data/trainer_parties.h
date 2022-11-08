@@ -12434,3 +12434,32 @@ static const struct TrainerMonNoItemDefaultMoves sParty_MayLinkPlaceholder[] = {
     .species = SPECIES_KYOGRE,
     }
 };
+
+static const struct TrainerMonNoItemCustomMoves sParty_Beyond_YoungsterHank[] = {
+    {
+    .iv = 0,
+    .lvl = 49,
+    .species = SPECIES_PIDGEOTTO,
+    .moves = {MOVE_AERIAL_ACE, MOVE_SKY_ATTACK, MOVE_STEEL_WING, MOVE_SAND_ATTACK}
+    },
+    {
+    .iv = 0,
+    .lvl = 52,
+    .species = SPECIES_TYPHLOSION,
+    .moves = {MOVE_FLAME_WHEEL, MOVE_SMOKESCREEN, MOVE_SUNNY_DAY, MOVE_CRUSH_CLAW}
+    },
+    {
+    .iv = 0,
+    .lvl = 51,
+    .species = SPECIES_ABSOL,
+    .moves = {MOVE_BITE, MOVE_FIRE_BLAST, MOVE_SWORDS_DANCE, MOVE_SLASH}
+    }
+};
+
+static const struct TrainerMonNoItemDefaultMoves sParty_Beyond_YoungsterJesse[] = {
+    {
+    .iv = 0,
+    .lvl = 10,
+    .species = SPECIES_PIDGEY,
+    }
+};

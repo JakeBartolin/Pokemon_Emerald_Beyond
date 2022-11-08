@@ -651,12 +651,12 @@
 #define FLAG_HIDDEN_ITEM_ROUTE_123_RARE_CANDY                (FLAG_HIDDEN_ITEMS_START + 0x6E)
 #define FLAG_HIDDEN_ITEM_ROUTE_105_BIG_PEARL                 (FLAG_HIDDEN_ITEMS_START + 0x6F)
 
-#define FLAG_UNUSED_0x264  0x264 // Unused Flag
-#define FLAG_UNUSED_0x265  0x265 // Unused Flag
-#define FLAG_UNUSED_0x266  0x266 // Unused Flag
-#define FLAG_UNUSED_0x267  0x267 // Unused Flag
-#define FLAG_UNUSED_0x268  0x268 // Unused Flag
-#define FLAG_UNUSED_0x269  0x269 // Unused Flag
+#define FLAG_HIDDEN_ITEM_ROUTE_201_MAX_REVIVE                       0x264 // _Beyond_ Route 201 Southeast Rock Behind Cut Tree
+#define FLAG_HIDDEN_ITEM_ROUTE_201_MASTER_BALL                      0x265 // _Beyond_ Route 201 on the Beach
+#define FLAG_HIDDEN_ITEM_ROUTE_201_FULL_RESTORE                     0x266 // _Beyond_ Route 201 on the Beach
+#define FLAG_HIDDEN_ITEM_ROUTE_201_THUNDER_STONE                    0x267 // _Beyond_ Route 201 on the Beach
+#define FLAG_HIDDEN_ITEM_ROUTE_201_MOON_STONE                       0x268 // _Beyond_ Route 201 on the Beach
+#define FLAG_HIDDEN_ITEM_ROUTE_201_LEFTOVERS                        0x269 // _Beyond_ Route 201 Northwest Near Stairs
 #define FLAG_UNUSED_0x26A  0x26A // Unused Flag
 #define FLAG_UNUSED_0x26B  0x26B // Unused Flag
 #define FLAG_UNUSED_0x26C  0x26C // Unused Flag
@@ -1078,7 +1078,7 @@
 #define FLAG_ITEM_ROUTE_120_NUGGET                                  0x406
 #define FLAG_ITEM_ROUTE_120_FULL_HEAL                               0x407
 #define FLAG_ITEM_ROUTE_123_CALCIUM                                 0x408
-#define FLAG_ITEM_ROUTE_123_RARE_CANDY                              0x409 // Unused Flag, leftover from R/S. In Emerald this is a hidden item and uses a different flag
+#define FLAG_ITEM_ROUTE_123_RARE_CANDY                              0x409 //
 #define FLAG_ITEM_ROUTE_127_ZINC                                    0x40A
 #define FLAG_ITEM_ROUTE_127_CARBOS                                  0x40B
 #define FLAG_ITEM_ROUTE_132_RARE_CANDY                              0x40C
@@ -1217,11 +1217,11 @@
 #define FLAG_ITEM_SAFARI_ZONE_NORTH_EAST_NUGGET                     0x491
 #define FLAG_ITEM_SAFARI_ZONE_SOUTH_EAST_BIG_PEARL                  0x492
 
-#define FLAG_UNUSED_0x493                                           0x493 // Unused Flag
-#define FLAG_UNUSED_0x494                                           0x494 // Unused Flag
-#define FLAG_UNUSED_0x495                                           0x495 // Unused Flag
-#define FLAG_UNUSED_0x496                                           0x496 // Unused Flag
-#define FLAG_UNUSED_0x497                                           0x497 // Unused Flag
+#define FLAG_ITEM_ROUTE_201_PP_UP                                   0x493 // _Beyond_ Route 201 Northeast Island
+#define FLAG_ITEM_ROUTE_201_PP_MAX                                  0x494 // _Beyond_ Route 201 East Island Next to Big Rock
+#define FLAG_ITEM_ROUTE_201_DRAGON_CLAW                             0x495 // _Beyond_ Route 201 Small Island North End
+#define FLAG_ITEM_ROUTE_202_DEEP_SEA_TOOTH                          0x496 // _Beyond_ Route 202 South
+#define FLAG_ITEM_ROUTE_202_DEEP_SEA_SCALE                          0x497 // _Beyond_ Route 202 North
 #define FLAG_UNUSED_0x498                                           0x498 // Unused Flag
 #define FLAG_UNUSED_0x499                                           0x499 // Unused Flag
 #define FLAG_UNUSED_0x49A                                           0x49A // Unused Flag
@@ -1309,8 +1309,9 @@
 #define FLAG_UNUSED_0x4EC                                           0x4EC // Unused Flag
 #define FLAG_UNUSED_0x4ED                                           0x4ED // Unused Flag
 #define FLAG_UNUSED_0x4EE                                           0x4EE // Unused Flag
-#define FLAG_UNUSED_0x4EF                                           0x4EF // Unused Flag
+#define FLAG_ITEM_ONEISLAND_MASTER_BALL                             0x4EF
 
+// Gym Flags
 #define FLAG_DEFEATED_RUSTBORO_GYM                                  0x4F0
 #define FLAG_DEFEATED_DEWFORD_GYM                                   0x4F1
 #define FLAG_DEFEATED_MAUVILLE_GYM                                  0x4F2
